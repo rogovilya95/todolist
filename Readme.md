@@ -1,2 +1,2 @@
-#ReadMe
-[![CI](https://github.com/rogovilya95/todolist/actions/workflows/tests.yml/badge.svg)](https://github.com/rogovilya95/todolist/actions/workflows/tests.yml)
+[![CI](https://github.com/rogovilya95/todolist/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/rogovilya95/todolist/actions/workflows/tests.yml)
+# ReadMe
